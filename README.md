@@ -1,5 +1,3 @@
-# augustineubong-syself-devops
-
 # Syself DevOps Assessment
 
 ## Overview
